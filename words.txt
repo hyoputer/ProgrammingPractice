@@ -1,0 +1,9 @@
+castle
+dog
+pale
+axe
+banana
+apple
+evil
+end
+parsley

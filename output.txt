@@ -1,0 +1,8 @@
+"leap" is an anagram of "pale"
+"apples" is not an anagram of words in file
+"den" is an anagram of "end"
+"live" is an anagram of "evil"
+"life" is not an anagram of words in file
+"god" is an anagram of "dog"
+"cast" is not an anagram of words in file
+"replays" is an anagram of "parsley"
